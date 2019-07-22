@@ -148,7 +148,7 @@ if __name__ == '__main__':
         player = ctypes.windll.kernel32
         player.Beep(1000, 400)
         time.sleep(1)
-        continue
+        #continue
 
     while (flag):
         #flag = False
@@ -204,13 +204,3 @@ if __name__ == '__main__':
 
         print("\r测试{0}次".format(count))
         # print(datetime.date.ctime)
-
-
-尹工,您好 :
-    以上功能都可以支持.
-    支持密钥对掉电保存和多组公私钥对.
-    支持生成多组公私钥对.
-
-    第四点提到的SM2验签的问题,应该是软件的问题,在下一版本更新的时候解决.
-    最初版程序是为了配合当时SM2需求开发,时间比较急,指令部分较少,如果需要增加指令的功能,贵司可提出需求,由我司进行开发.
-    或者我司提供模块源码,贵司进行开发皆可.我司全力支持.

@@ -2,22 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62cc7cab-408b-4080-985c-62c51b9c3499" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../NetSypder/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OreillyDateAnalyze/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OreillyPythonCookbook3th/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NetSypder/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NetSypder/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NetSypder/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NetSypder/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NetSypder/.idea/网络爬虫.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NetSypder/.idea/网络爬虫.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NetSypder/base/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/../NetSypder/base/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../NetSypder/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/../NetSypder/venv/pip-selfcheck.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OreillyDateAnalyze/.idea/Oreilly数据分析.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../OreillyDateAnalyze/.idea/Oreilly数据分析.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OreillyDateAnalyze/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OreillyDateAnalyze/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OreillyDateAnalyze/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OreillyDateAnalyze/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OreillyPythonCookbook3th/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../OreillyPythonCookbook3th/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TheCLanguage/CLanguageSkill" beforeDir="false" afterPath="$PROJECT_DIR$/../TheCLanguage/CLanguageSkill" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python练习.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python练习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/USB/usb30test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyPythonApp_ReadCard1/1503FT测试工具.py" beforeDir="false" afterPath="$PROJECT_DIR$/MyPythonApp_ReadCard1/1503FT测试工具.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,10 +36,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_radiobutton.py">
+        <entry file="file://$PROJECT_DIR$/support1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1843">
-              <caret line="98" column="25" selection-start-line="98" selection-start-column="25" selection-end-line="98" selection-end-column="25" />
+            <state relative-caret-position="57">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/USB/usb30test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/First_GUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="16" lean-forward="true" selection-end-line="52" />
               <folding>
                 <element signature="e#110#131#0" expanded="true" />
               </folding>
@@ -60,88 +69,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/临时放置">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/usb/core.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.pytest_cache/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="152">
-                <caret line="8" selection-start-line="8" selection-end-line="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_scrolledtext_widget.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="104" column="43" selection-start-line="104" selection-start-column="43" selection-end-line="104" selection-end-column="43" />
-              <folding>
-                <element signature="e#36#56#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="164">
+              <caret line="1262" selection-start-line="1262" selection-end-line="1262" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TkiniterBase/1第一个界面.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_adding_widgets_in_loop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1881">
-              <caret line="101" selection-end-line="124" />
-              <folding>
-                <element signature="e#36#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager/GUI_LabelFrame_column_one_标签框架.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2394">
-              <caret line="128" column="72" selection-end-line="141" />
-              <folding>
-                <element signature="e#36#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager/GUI_add_padding.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2394">
-              <caret line="128" column="16" selection-start-line="128" selection-start-column="16" selection-end-line="128" selection-end-column="16" />
-              <folding>
-                <element signature="e#36#56#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager/GUI_add_padding_loop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2641">
-              <caret line="141" column="38" selection-start-line="141" selection-start-column="38" selection-end-line="141" selection-end-column="38" />
+            <state relative-caret-position="25">
+              <caret line="91" column="57" selection-end-line="124" />
               <folding>
                 <element signature="e#36#56#0" expanded="true" />
               </folding>
@@ -182,9 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tkiniter图形界面/界面综合讲解11-1 树状数据.py" />
-        <option value="$PROJECT_DIR$/Tkiniter图形界面/界面综合讲解12-2 相对布局.py" />
-        <option value="$PROJECT_DIR$/Tkiniter图形界面/界面综合讲解12-3 表格布局.py" />
         <option value="$PROJECT_DIR$/小项目2读卡器/CCID_python多线程下载工具.py" />
         <option value="$PROJECT_DIR$/AAAA练习/廖雪峰-线程1.py" />
         <option value="$PROJECT_DIR$/AAAA练习/廖雪峰-线程2.py" />
@@ -233,12 +170,15 @@
         <option value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager/GUI_add_padding.py" />
         <option value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager/GUI_add_padding_loop.py" />
         <option value="$PROJECT_DIR$/小项目2读卡器/1503FT测试工具.py" />
+        <option value="$PROJECT_DIR$/MyPythonApp_ReadCard1/1503FT测试工具.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/usb/core.py" />
+        <option value="$PROJECT_DIR$/USB/usb30test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="86" />
-    <option name="y" value="365" />
+    <option name="x" value="317" />
+    <option name="y" value="122" />
     <option name="width" value="1940" />
     <option name="height" value="910" />
   </component>
@@ -249,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -259,13 +200,23 @@
             <path>
               <item name="pythonTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="D:\trainning\pythonTest" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="TkiniterBase" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="PythonGUICookbook2edition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pythonTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\trainning\pythonTest" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="PythonGUICookbook2edition" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="chapter1" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="pythonTest" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="D:\trainning\pythonTest" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="USB" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,7 +225,7 @@
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -304,7 +255,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1第一个界面">
+  <component name="RunManager" selected="Python.GUI_adding_widgets_in_loop">
     <configuration name="进程间通讯" type="PythonConfigurationType" factoryName="Python">
       <module name="python练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,6 +292,116 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/多进程/多进程基础1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1503FT测试工具" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyPythonApp_ReadCard1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyPythonApp_ReadCard1/1503FT测试工具.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1第一个界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkiniter图形界面" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkiniter图形界面/1第一个界面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1第一个界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkiniter图形界面" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkiniter图形界面/1第一个界面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="网络1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络/网络1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1第一个界面" type="PythonConfigurationType" factoryName="Python">
+      <module name="python练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkiniter图形界面" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkiniter图形界面/1第一个界面.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -504,94 +565,6 @@
       <method v="2" />
     </configuration>
     <configuration name="1第一个界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkiniter图形界面" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkiniter图形界面/1第一个界面.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1第一个界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkiniter图形界面" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkiniter图形界面/1第一个界面.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1第一个界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tkiniter图形界面" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tkiniter图形界面/1第一个界面.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="网络1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/网络" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/网络/网络1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1第一个界面" type="PythonConfigurationType" factoryName="Python">
       <module name="python练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -899,7 +872,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GUI_LabelFrame_column_one_标签框架" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="First_GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -907,12 +880,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager/GUI_LabelFrame_column_one_标签框架.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/First_GUI.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -921,7 +894,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="GUI_add_padding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="GUI_adding_widgets_in_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -929,34 +902,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager/GUI_add_padding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="GUI_add_padding_loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager/GUI_add_padding_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_adding_widgets_in_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -979,6 +930,50 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_scrolledtext_widget.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="练习" type="PythonConfigurationType" factoryName="Python">
+      <module name="python练习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1163,7 +1158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="练习" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="usb30test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python练习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1171,34 +1166,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/USB" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="练习" type="PythonConfigurationType" factoryName="Python">
-      <module name="python练习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/USB/usb30test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1209,11 +1182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1第一个界面" />
+        <item itemvalue="Python.GUI_adding_widgets_in_loop" />
+        <item itemvalue="Python.First_GUI" />
+        <item itemvalue="Python.usb30test" />
+        <item itemvalue="Python.1503FT测试工具" />
         <item itemvalue="Python.GUI_scrolledtext_widget" />
-        <item itemvalue="Python.GUI_add_padding_loop" />
-        <item itemvalue="Python.GUI_add_padding" />
-        <item itemvalue="Python.GUI_LabelFrame_column_one_标签框架" />
       </list>
     </recent_temporary>
   </component>
@@ -1276,6 +1249,7 @@
       <workItem from="1562556275980" duration="25417000" />
       <workItem from="1563766653273" duration="82000" />
       <workItem from="1563774631265" duration="116000" />
+      <workItem from="1563784892822" duration="2751000" />
     </task>
     <servers />
   </component>
@@ -1312,7 +1286,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265442000" />
+    <option name="totallyTimeSpent" value="268193000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1326,22 +1300,22 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" x="755" y="299" width="409" height="430" id="Project" order="0" sideWeight="0.48924732" visible="true" weight="0.30294907" />
+      <window_info active="true" content_ui="combo" x="755" y="299" width="409" height="430" id="Project" order="0" sideWeight="0.48924732" visible="true" weight="0.3069705" />
       <window_info id="Structure" order="1" sideWeight="0.5107527" side_tool="true" weight="0.28150135" />
       <window_info id="Favorites" order="2" sideWeight="0.5107527" side_tool="true" weight="0.28150135" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.30892143" />
-      <window_info anchor="bottom" x="22" y="285" width="1492" height="254" id="Run" order="2" sideWeight="0.5575124" weight="0.30736545" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49642268" weight="0.2276964" />
+      <window_info anchor="bottom" x="22" y="285" width="1492" height="254" id="Run" order="2" sideWeight="0.55563" weight="0.60056657" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49597856" weight="0.54532576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49893048" weight="0.3281471" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49798927" weight="0.32719547" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.44248763" side_tool="true" weight="0.3446712" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946523" weight="0.37057993" />
-      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49946523" weight="0.39745402" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.44436997" side_tool="true" visible="true" weight="0.60056657" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49865952" weight="0.3696884" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.49865952" weight="0.39660057" />
       <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="13" sideWeight="0.4983957" weight="0.46110326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1414,6 +1388,7 @@
     <SUITE FILE_PATH="coverage/python$3.coverage" NAME="界面综合讲解3 Coverage Results" MODIFIED="1556443504647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiniter图形界面" />
     <SUITE FILE_PATH="coverage/python$4listbox.coverage" NAME="界面综合讲解4listbox Coverage Results" MODIFIED="1556444955015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiniter图形界面" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="练习 Coverage Results" MODIFIED="1560216899221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonTest$First_GUI.coverage" NAME="First_GUI Coverage Results" MODIFIED="1563787618108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonGUICookbook2edition/chapter1" />
     <SUITE FILE_PATH="coverage/python$9_1_Frame.coverage" NAME="界面综合讲解9-1 Frame框架 Coverage Results" MODIFIED="1557282599114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiniter图形界面" />
     <SUITE FILE_PATH="coverage/pythonTest$1.coverage" NAME="1第一个界面 Coverage Results" MODIFIED="1563774726630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TkiniterBase" />
     <SUITE FILE_PATH="coverage/python$GUI_radiobutton.coverage" NAME="GUI_radiobutton Coverage Results" MODIFIED="1562581741262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonGUICookbook2edition/chapter1" />
@@ -1437,6 +1412,7 @@
     <SUITE FILE_PATH="coverage/python$GUI_combobox_widget.coverage" NAME="GUI_combobox_widget Coverage Results" MODIFIED="1562576648527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonGUICookbook2edition/chapter1" />
     <SUITE FILE_PATH="coverage/python$IS8U192AFt.coverage" NAME="IS8U192AFt测试工具 Coverage Results" MODIFIED="1560416866369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/小项目2读卡器" />
     <SUITE FILE_PATH="coverage/python$4_4_listbox.coverage" NAME="界面综合讲解4-4 listbox多选支持 Coverage Results" MODIFIED="1556509070609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiniter图形界面" />
+    <SUITE FILE_PATH="coverage/pythonTest$1503FT.coverage" NAME="1503FT测试工具 Coverage Results" MODIFIED="1563785522701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyPythonApp_ReadCard1" />
     <SUITE FILE_PATH="coverage/python$4.coverage" NAME="4线程锁 Coverage Results" MODIFIED="1554014602795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/线Thread" />
     <SUITE FILE_PATH="coverage/python$GUI_add_padding_loop.coverage" NAME="GUI_add_padding_loop Coverage Results" MODIFIED="1562730520604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager" />
     <SUITE FILE_PATH="coverage/python$_2.coverage" NAME="廖雪峰-线程2 Coverage Results" MODIFIED="1559285658433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AAAA练习" />
@@ -1465,9 +1441,11 @@
     <SUITE FILE_PATH="coverage/python$support1__1_.coverage" NAME="support1 (1) Coverage Results" MODIFIED="1560234925895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$GUI_LabelFrame_column_one_.coverage" NAME="GUI_LabelFrame_column_one_标签框架 Coverage Results" MODIFIED="1562637081116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonGUICookbook2edition/chapter2layoutmanager" />
     <SUITE FILE_PATH="coverage/python$6.coverage" NAME="多进程基础6如果有个子进程是获取输入 Coverage Results" MODIFIED="1553929520223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多进程" />
+    <SUITE FILE_PATH="coverage/pythonTest$GUI_adding_widgets_in_loop.coverage" NAME="GUI_adding_widgets_in_loop Coverage Results" MODIFIED="1563787640764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonGUICookbook2edition/chapter1" />
     <SUITE FILE_PATH="coverage/python$setup.coverage" NAME="setup Coverage Results" MODIFIED="1558062433712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/ccid-0.0.1" />
     <SUITE FILE_PATH="coverage/python$_1__1_.coverage" NAME="廖雪峰-线程1 (1) Coverage Results" MODIFIED="1559286303628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AAAA练习/线程1" />
     <SUITE FILE_PATH="coverage/python$_2__1_.coverage" NAME="廖雪峰-线程2 (1) Coverage Results" MODIFIED="1559294033570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AAAA练习/线程1" />
+    <SUITE FILE_PATH="coverage/pythonTest$usb30test.coverage" NAME="usb30test Coverage Results" MODIFIED="1563787473207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/USB" />
     <SUITE FILE_PATH="coverage/python$7_2_meun.coverage" NAME="界面综合讲解7-2 meun鼠标右键菜单 Coverage Results" MODIFIED="1556519177141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiniter图形界面" />
     <SUITE FILE_PATH="coverage/python$pytest_in_2_py.coverage" NAME="pytest in 练习2.py Coverage Results" MODIFIED="1560233972824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/面向对象的思想" />
     <SUITE FILE_PATH="coverage/python$12_3_.coverage" NAME="界面综合讲解12-3 表格布局 Coverage Results" MODIFIED="1556528718562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tkiniter图形界面" />
@@ -1486,22 +1464,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/support1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/并发练习/线程和进程的测试和想法/谁占得更多的CPU调度2.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/语法/type可以干什么.py" />
     <entry file="file://$PROJECT_DIR$/语法/为什么使用format.py" />
     <entry file="file://$PROJECT_DIR$/语法/函数.py" />
     <entry file="file://$PROJECT_DIR$/网络爬虫-spider/爬虫1.py" />
@@ -1552,16 +1514,6 @@
     <entry file="file://$PROJECT_DIR$/华大信安芯片测试统计系统/主图形界面/ceshi.py" />
     <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/First_GUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="16" lean-forward="true" selection-end-line="52" />
-          <folding>
-            <element signature="e#110#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_textbox_widget.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1629,6 +1581,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/小项目2读卡器/CCID_python多线程下载工具.py" />
     <entry file="file://$PROJECT_DIR$/小项目2读卡器/1503FT测试工具.py" />
+    <entry file="file://$PROJECT_DIR$/Module/OS模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_radiobutton.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1843">
@@ -1646,10 +1605,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_adding_widgets_in_loop.py">
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="152">
+            <caret line="8" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_scrolledtext_widget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1881">
-          <caret line="101" selection-end-line="124" />
+        <state relative-caret-position="1938">
+          <caret line="104" column="43" selection-start-line="104" selection-start-column="43" selection-end-line="104" selection-end-column="43" />
           <folding>
             <element signature="e#36#56#0" expanded="true" />
           </folding>
@@ -1686,37 +1655,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Module/OS模块.py">
+    <entry file="file://$PROJECT_DIR$/TkiniterBase/1第一个界面.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        <state relative-caret-position="152">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.pytest_cache/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="152">
-            <caret line="8" selection-start-line="8" selection-end-line="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_scrolledtext_widget.py">
+    <entry file="file://$PROJECT_DIR$/MyPythonApp_ReadCard1/1503FT测试工具.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="104" column="43" selection-start-line="104" selection-start-column="43" selection-end-line="104" selection-end-column="43" />
+        <state relative-caret-position="237">
+          <caret line="150" column="17" lean-forward="true" selection-start-line="150" selection-start-column="17" selection-end-line="150" selection-end-column="17" />
           <folding>
-            <element signature="e#36#56#0" expanded="true" />
+            <element signature="e#101#143#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TkiniterBase/1第一个界面.py">
+    <entry file="file://$PROJECT_DIR$/support1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state relative-caret-position="57">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/usb/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="1262" selection-start-line="1262" selection-end-line="1262" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/USB/usb30test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="54" lean-forward="true" selection-start-line="4" selection-start-column="54" selection-end-line="4" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/First_GUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="16" lean-forward="true" selection-end-line="52" />
+          <folding>
+            <element signature="e#110#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonGUICookbook2edition/chapter1/GUI_adding_widgets_in_loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="91" column="57" selection-end-line="124" />
+          <folding>
+            <element signature="e#36#56#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

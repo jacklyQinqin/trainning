@@ -1,7 +1,8 @@
 #!/usr/bin/env python/
 # -*- coding: utf-8 -*-
-import tkinter
 import time
+import tkinter
+
 win = tkinter.Tk()
 win.title("listbox")
 win.geometry("800x600+200+40")

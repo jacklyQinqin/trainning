@@ -3,9 +3,10 @@
 
 """
 
-from threading import Thread
-from multiprocessing import Process
 import os
+from multiprocessing import Process
+from threading import Thread
+
 
 def work():
     print('hello')

@@ -7,9 +7,10 @@ process id
 """
 
 
-from threading import  Thread
+import os
 from multiprocessing import Process
-import  os
+from threading import Thread
+
 
 def work():
     print('Output #1Hello,子线程的PID {0!s}'.format(os.getpid()))

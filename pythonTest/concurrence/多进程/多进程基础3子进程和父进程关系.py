@@ -5,10 +5,12 @@ Created on Fri Mar 29 20:11:24 2019
 @author: Administrator
 """
 
-from multiprocessing import Process
 import os
-from time import sleep
 import sys
+from multiprocessing import Process
+from time import sleep
+
+
 #版本3.
 #注意事项：在交互模式下，不能进入子进程。也就是在kernel的情况下。子进程不能执行
 #如果是用spyder。需要在run的时候配置为 external system termial.

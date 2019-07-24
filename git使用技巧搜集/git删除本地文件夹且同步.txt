@@ -1,0 +1,45 @@
+git在本地仓库直接使用rm彻底删除文件，服务端还是存在。（已解决）
+本地仓库：A和B
+
+服务器：C
+
+今天在本地仓库A希望删除一个文件test，于是执行以下命令：
+
+1
+2
+3
+4
+$ sudo rm test
+$ git add .
+$ git commit -m "delete test"
+$ git push origin
+在本地仓库检查，的确没有文件test了。然后再次从服务器拉下来看看，执行
+
+1
+$ git pull
+test没有啦。我以为成功了。
+
+但是在另一个客户端的本地仓库B拉下来，发现test又出来了。看来我以为的不是我以为的。
+后来自己查资料，发现:
+git add 表示 add to index only files created or modified and not those deleted
+git add 只将新建的或者已更改的文件添加到索引区。（不会添加删除的文件）
+
+但是我们现在是通过先rm的命令，那应该如何完成提交，并真正从服务端删除呢：
+
+git add -u
+git add -u  这个命令的意思是 add to index only files modified or deleted and not those created
+只会处理已修改或者已删除的文件，但是不会处理新建的文件
+
+好了，执行以下命令：
+
+1
+2
+3
+$ git add -u
+$ git commit -m "delete test"
+$ git push
+这时候我们在本地git status发现，已经没有了那些提交信息。再去本地仓库B看看，
+test也没有了！
+
+总结：如果我们要彻底通过git删除，分两种方式，如果先执行rm 命令去删除就可以使用本文的方法。
+如果想通过git，可以使用git rm命令。

@@ -1,8 +1,9 @@
 #!/usr/bin/env python/
 # -*- coding: utf-8 -*-
-import tkinter
-from tkinter import  ttk
 import time
+import tkinter
+from tkinter import ttk
+
 win = tkinter.Tk()
 win.title("绝对布局")
 win.geometry("600x400+200+40")

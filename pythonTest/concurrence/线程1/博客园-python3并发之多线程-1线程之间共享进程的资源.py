@@ -2,9 +2,10 @@
 全局变量在进程内被所有的线程共享.
 
 """
-from threading import  Thread
-from multiprocessing import  Process
-import  os
+import os
+from multiprocessing import Process
+from threading import Thread
+
 
 def work():
     global  n

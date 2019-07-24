@@ -13,9 +13,10 @@ Created on Fri Mar 29 09:55:47 2019
 每个进程都有自己的数据段，代码段和堆栈段。
 
 '''
-from multiprocessing import Process
 import sys
+from multiprocessing import Process
 from time import sleep
+
 
 #版本1.无法多进程。 
 # 子进程要执行的代码

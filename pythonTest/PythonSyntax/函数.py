@@ -1,6 +1,7 @@
-import  time
-import  os
-import  sys
+import os
+import sys
+import time
+
 
 def nowTime():
     return  time.time()

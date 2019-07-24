@@ -1,8 +1,9 @@
 #!/usr/bin/env python/
 # -*- coding: utf-8 -*-
-import tkinter
-from tkinter import  ttk
 import time
+import tkinter
+from tkinter import ttk
+
 win = tkinter.Tk()
 win.title("Frame框架")
 win.geometry("400x400+200+40")

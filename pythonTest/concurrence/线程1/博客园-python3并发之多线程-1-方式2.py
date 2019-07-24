@@ -1,7 +1,9 @@
 #方式二
 #创建线程的方式2
-from threading import Thread
 import time
+from threading import Thread
+
+
 class Sayhi(Thread):
     def __init__(self,name):
         super().__init__()

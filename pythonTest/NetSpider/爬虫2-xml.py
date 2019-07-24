@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
-from xml.dom.minidom import parse
 import xml.dom.minidom
+from xml.dom.minidom import parse
 
 # 使用minidom解析器打开 XML 文档
 DOMTree = xml.dom.minidom.parse("movies.xml")

@@ -1,7 +1,8 @@
 #!/usr/bin/env python/
 # -*- coding: utf-8 -*-
-import tkinter
 import time
+import tkinter
+
 win = tkinter.Tk()
 win.title("菜单栏")
 win.geometry("400x400+200+40")

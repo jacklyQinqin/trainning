@@ -1,8 +1,9 @@
 import serial
-from time import sleep
-import  tkinter as tk
 import serial
+import tkinter as tk
 from time import sleep
+from time import sleep
+
 
 def recv(serial):
     while True:

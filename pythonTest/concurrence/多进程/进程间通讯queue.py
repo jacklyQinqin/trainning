@@ -4,9 +4,10 @@
 并传递给子进程
 相当于CC2640中的queue的使用。和全局状态指针的传递。
 '''
-from multiprocessing import Process ,Queue
-import  os
-import  time
+import os
+import time
+from multiprocessing import Process, Queue
+
 
 def write(q):
     print("启动写子进程")

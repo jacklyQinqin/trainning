@@ -1,7 +1,7 @@
-import  threading
-import  time
+import support1
+import threading
+import time
 
-import  support1
 
 def aaa():
     for n in range(10000):

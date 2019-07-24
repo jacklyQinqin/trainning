@@ -5,10 +5,12 @@ Created on Fri Mar 29 20:11:24 2019
 @author: Administrator
 """
 
-from multiprocessing import Process
 import os
-from time import sleep
 import sys
+from multiprocessing import Process
+from time import sleep
+
+
 #版本4.1
 #如果主进程先执行完呢？子进程会接着执行吗？
 #实践证明。子进程仍然在执行。

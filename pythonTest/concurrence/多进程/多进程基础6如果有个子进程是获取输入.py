@@ -5,10 +5,11 @@ Created on Fri Mar 29 20:11:24 2019
 @author: Administrator
 """
 
-from multiprocessing import Process
 import os
-from time import sleep
 import sys
+from multiprocessing import Process
+from time import sleep
+
 
 #版本6.1如果有个进程是没有等待
 #测试结果是只执行子进程1.其他没有执行，估计是因为优先级的问题

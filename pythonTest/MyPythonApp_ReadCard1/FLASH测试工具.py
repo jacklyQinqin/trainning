@@ -4,15 +4,14 @@
 # -*- coding: utf-8 -*-
 
 
-# 导入PcscReader类
-from PySmartCard.CpuCard import PcscReader
+import ctypes
+import datetime
+import os
+import sys
 # 导入time模块
 import time
-import os
-import datetime
-import ctypes
-import sys
-
+# 导入PcscReader类
+from PySmartCard.CpuCard import PcscReader
 
 listDownloadFIle = list()
 

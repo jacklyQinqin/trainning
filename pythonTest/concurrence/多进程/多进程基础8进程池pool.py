@@ -31,9 +31,11 @@
 #     print('主进程结束')
 
 
-from multiprocessing import Pool
 import os
 import time
+from multiprocessing import Pool
+
+
 #版本8.2 多个子进程使用 pool来管理。
 def run_proc1():
        print('子进程1的PID是：{0:s}'.format(str(os.getpid())))

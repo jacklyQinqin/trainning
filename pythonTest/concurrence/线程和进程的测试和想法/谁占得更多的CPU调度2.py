@@ -8,10 +8,11 @@
 2,打印+等待0.1s.两种方式,通过四线程,和四进程的比较.性能相差不大.
 
 """
-import time
 import random
+import time
 from multiprocessing import Process
-from threading import  Thread
+from threading import Thread
+
 
 class Piao(Thread):
     def __init__(self,name):

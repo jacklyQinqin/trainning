@@ -1,9 +1,9 @@
 import tkinter as tk
-from tkinter import  ttk
+from tkinter import ttk
 
-#自定义模块和方法
-#导入信安测试系统模块
-import  isteccTestSys
+# 自定义模块和方法
+# 导入信安测试系统模块
+import isteccTestSys
 
 win = tk.Tk()
 win.title("北京华大信安科技有限公司芯片测试统计系统")

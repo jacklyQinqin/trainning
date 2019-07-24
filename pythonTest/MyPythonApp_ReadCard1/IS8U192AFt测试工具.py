@@ -1,12 +1,13 @@
 # encoding=utf-8
 
-# 导入PcscReader类
-from PySmartCard.CpuCard import PcscReader
+import ctypes
+import datetime
+import os
 # 导入time模块
 import time
-import  os
-import datetime
-import ctypes
+# 导入PcscReader类
+from PySmartCard.CpuCard import PcscReader
+
 
 def showLog(data, issend):
     '''打印日志函数'''

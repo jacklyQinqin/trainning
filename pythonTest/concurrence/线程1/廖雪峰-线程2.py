@@ -13,9 +13,10 @@
 #其他线程就继续等待直到获得锁为止。
 
 
+import os
 import threading
 import time
-import  os
+
 balance  = 0
 lock = threading.Lock()
 

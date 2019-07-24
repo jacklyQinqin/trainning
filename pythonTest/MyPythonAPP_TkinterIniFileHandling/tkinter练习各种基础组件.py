@@ -69,7 +69,7 @@ button_1.pack()
 user_input_entry = tk.Entry(windows , show= None , font=("Arial",14))
 password_input_entry = tk.Entry(windows , show='*', font=("Arial",14))
 user_input_entry.pack()
-Entry.pack()
+#Entry.pack()
 
 
 #Text窗口.是tkinter类中提供的一个多行文本区域.显示多行文本.可用来收集或显示用户输入的文字.

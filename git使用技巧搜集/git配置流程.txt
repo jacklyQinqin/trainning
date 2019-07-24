@@ -1,0 +1,148 @@
+﻿STEP1. git配置 .安装完git之后,打开git bash
+$ git config --global user.name "Your Name"
+$ git config --global user.email "email@example.com"
+
+所以，创建一个版本库非常简单，首先，选择一个合适的地方，创建一个空目录：
+$ mkdir learngit
+$ cd learngit
+$ pwd
+/Users/michael/learngit
+windows系统避免中文路径
+
+
+第二步，通过git init命令把这个目录变成Git可以管理的仓库：
+
+$ git init
+Initialized empty Git repository in /Users/michael/learngit/.git/
+
+首先这里再明确一下，所有的版本控制系统，其实只能跟踪文本文件的改动，
+比如TXT文件，网页，所有的程序代码等等，Git也不例外。版本控制系统可以
+告诉你每次的改动，比如在第5行加了一个单词“Linux”，在第8行删了一个单词
+“Windows”。而图片、视频这些二进制文件，虽然也能由版本控制系统管理，
+但没法跟踪文件的变化，只能把二进制文件每次改动串起来，
+也就是只知道图片从100KB改成了120KB，但到底改了啥，版本控制系统不知道，也没法知道。
+
+千万不要使用Windows自带的记事本编辑任何文本文件。原因是Microsoft开发记事本的团队使用了
+一个非常弱智的行为来保存UTF-8编码的文件，他们自作聪明地在每个文件开头添加了0xefbbbf
+（十六进制）的字符，你会遇到很多不可思议的问题，比如，网页第一行可能会显示一个“?”，
+明明正确的程序一编译就报语法错误，等等，都是由记事本的弱智行为带来的。
+建议你下载Notepad++代替记事本，
+不但功能强大，而且免费！记得把Notepad++的默认编码设置为UTF-8 without BOM即可：
+
+
+------------------------------------------------------------------------
+git 常用操作.
+1.添加文件
+$ git add readme.txt
+
+2.git commit -m "wrote a readme file"
+提交文件到仓库,并添加本次提交说明.
+
+
+----
+为什么Git添加文件需要add，commit一共两步呢？
+因为commit可以一次提交很多文件，所以你可以多次add不同的文件，比如：
+$ git add file1.txt
+$ git add file2.txt file3.txt
+$ git commit -m "add 3 files."
+
+
+3.查看修改状态
+$ git status
+
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   readme.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+4.查看和上次的不同
+git diff
+
+5.修改后重新提交
+还是需要两步 
+	1. git add
+	2. git commit 
+如果没有git add 直接执行 git commit .
+会提示
+git commit readme.txt
+Aborting commit due to empty commit message.
+
+6.查看修改记录
+git log
+
+git log  --pretty=oneline 
+
+
+7.版本退回
+
+git reset --hard HEAD^
+HEAD表示当前版本.一个^ 表示上个版本. 多个用~time表示.
+
+Git的版本回退速度非常快，因为Git在内部有个指向当前版本的HEAD指针，当你回退版本的时候，Git仅仅是把HEAD从指向append GPL：
+
+┌────┐
+│HEAD│
+└────┘
+   │
+   └──> ○ append GPL
+        │
+        ○ add distributed
+        │
+        ○ wrote a readme file
+改为指向add distributed：
+
+┌────┐
+│HEAD│
+└────┘
+   │
+   │    ○ append GPL
+   │    │
+   └──> ○ add distributed
+        │
+        ○ wrote a readme file
+然后顺便把工作区的文件更新了。
+所以你让HEAD指向哪个版本号，你就把当前版本定位在哪。
+
+
+
+HEAD指向的版本就是当前版本，因此，Git允许我们在版本的历史之间穿梭，使用命令git reset --hard commit_id。
+
+穿梭前，用git log可以查看提交历史，以便确定要回退到哪个版本。
+
+要重返未来，用git reflog查看命令历史，以便确定要回到未来的哪个版本。
+
+如何退回
+
+
+删除文件
+
+
+远程操作操作.
+1.先注册github.
+2.
+创建SSH Key。在用户主目录下，看看有没有.ssh目录，如果有，再看看这个目录下有没有id_rsa和id_rsa.pub这两个文件，
+如果已经有了，可直接跳到下一步。如果没有，打开Shell（Windows下打开Git Bash），创建SSH Key：
+$ ssh-keygen -t rsa -C "youremail@example.com"
+
+https://www.liaoxuefeng.com/wiki/896043488029600/896954117292416
+
+
+
+
+Git鼓励大量使用分支：
+
+查看分支：git branch
+
+创建分支：git branch <name>
+
+切换分支：git checkout <name>
+
+创建+切换分支：git checkout -b <name>
+
+合并某分支到当前分支：git merge <name>
+
+删除分支：git branch -d <name>
